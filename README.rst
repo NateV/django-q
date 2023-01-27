@@ -1,7 +1,7 @@
-.. image:: docs/_static/logo.png
-    :align: center
-    :alt: Q logo
-    :target: https://django-q.readthedocs.org/
+
+
+NateV's personal fork of DjangoQ - really just for learning about it and probably breaking it for learning purposes. 
+----------------------
 
 A multiprocessing distributed task queue for Django
 ---------------------------------------------------
